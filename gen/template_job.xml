@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<export>
+  <head>
+    <type>ideScriptExport</type>
+    <time>1489393987183</time>
+    <version>V1.0</version>
+    <projectCode>futureland</projectCode>
+  </head>
+  <body>
+    <files>
+      <file code="369a2d252eda3a2480248486cc121d69" pid_code="4b5e73c2ac9b4c7bba1fd9af84684413" info_code="3c3fd4731fed3e05aed320c6e15bcf47" tree_name="khan_c_customer.py" type="2" del="0" type_code="2" name="khan_c_customer.py" mr="1" queue="hadoop01" priority="1" remark=""/>
+      <meta>
+        <allTaskCount></allTaskCount>
+        <scriptTaskCount></scriptTaskCount>
+      </meta>
+    </files>
+  </body>
+</export>

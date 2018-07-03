@@ -1,0 +1,17 @@
+[KAPPA_ORA]
+host = 220.194.46.229
+port = 3850
+usr = neands3
+pwd = DE9050B26CC5B2
+db_pass = 123456
+
+[KAPPA_KHAN]
+driver = jdbc:khandb://172.24.3.163:5432/test
+usr = neands3
+pwd = DE9050B26CC5B2
+
+[ECIF_MYSQL]
+driver = jdbc:mysql://192.168.69.16:3306/trial
+usr = XXX
+pwd = XXXX
+
